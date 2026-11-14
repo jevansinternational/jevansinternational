@@ -1,6 +1,6 @@
-# JEVANS INTERNATIONAL
+ JEVANS INTERNATIONAL
 
-### Building Opportunities. Connecting the World.
+Building Opportunities. Connecting the World.
 
 Welcome to the official website repository of **Jevans International**, a business focused on building opportunities through technology, trade, and business solutions.
 
@@ -14,7 +14,7 @@ Jevans International is committed to connecting people, businesses, and opportun
 
 Our goal is to create meaningful connections, support business growth, and contribute to sustainable development.
 
-## Our Business Divisions
+Our Business Divisions
 
 Our website presents three main business areas:
 
@@ -22,7 +22,7 @@ Our website presents three main business areas:
 - **Trade & Commerce:** Trading activities and commercial opportunities.
 - **Business Solutions:** Practical solutions that support businesses and organizations.
 
-## Website Features
+Website Features
 
 - Professional company homepage.
 - Company introduction and profile.
@@ -34,7 +34,7 @@ Our website presents three main business areas:
 - Business contact information.
 - Automatic copyright year.
 
-## Project Structure
+ Project Structure
 
 ```text
 jevans_international/
@@ -58,14 +58,14 @@ jevans_international/
 | `README.md` | Project documentation |
 | `videos/` | Company introduction video |
 
-## Contact Information
+ Contact Information
 
 - **Business:** Jevans International
 - **Email:** jevansinternational@gmail.com
 - **Phone / WhatsApp:** +211 920 944 180
 - **Website:** https://jevansinternational.github.io/jevansinternational/
 
-## How to Run the Website Locally
+ How to Run the Website Locally
 
 1. Download or clone this repository.
 2. Extract the ZIP file if downloaded.
@@ -74,7 +74,7 @@ jevans_international/
 
 Alternatively, open the folder in Visual Studio Code and use the Live Server extension.
 
-## How to Publish Using GitHub Pages
+How to Publish Using GitHub Pages
 
 1. Open the GitHub repository.
 2. Go to **Settings**.
@@ -88,7 +88,7 @@ Your website will be available at:
 
 https://jevansinternational.github.io/jevansinternational/
 
-## Important Notes
+ Important Notes
 
 - This is a static website built with HTML, CSS, and JavaScript.
 - An internet connection is required for externally hosted resources such as Google Fonts and remote images.
@@ -97,7 +97,7 @@ https://jevansinternational.github.io/jevansinternational/
 - Confirm all company information, business divisions, vision, mission, and legal details before official publication.
 - The suggested domain `jevansinternational.com` should be checked for availability before purchase.
 
-## Technologies Used
+ Technologies Used
 
 - HTML5
 - CSS3
